@@ -1,5 +1,9 @@
-# Exam #1: Piano di Studi
-## Student: s031665 SORRENTINO FRANCESCO 
+# Project: Piano di Studi
+## General informations 
+
+This is a solo university project for the 'Web Application I' course, made by myself (fullstack).
+
+At the moment all the informations are in italian, i'll translate it later in english but if you need it make an issue and i'll do it as soon as possible!
 
 ## React Client Application Routes
 
